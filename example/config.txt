@@ -1,0 +1,2 @@
+Prefix plugins/BIOM2CSV/example/
+Plugin BIOM2CSV inputfile min_sparse_otu_table.biom outputfile table.csv
