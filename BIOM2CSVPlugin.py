@@ -1,7 +1,8 @@
-import sys
 import numpy 
 import biom
 
+import pandas as pd
+#still need to fix py3.6
 
 class BIOM2CSVPlugin:
 	def input(self, filename):
